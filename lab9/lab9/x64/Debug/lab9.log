@@ -1,0 +1,14 @@
+﻿  lab9.cpp
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(70,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(115,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print_vec<int>(const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)"
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(71,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(26,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(134,24): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> fill_vec<double,int>(Iterator,Iterator)"
+          with
+          [
+              Iterator=int
+          ]
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(86,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(149,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print_vec2<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &)"
+D:\C++projects\labs\lab6\lab9\lab9\lab9.cpp(87,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab9.vcxproj -> D:\C++projects\labs\lab6\lab9\x64\Debug\lab9.exe

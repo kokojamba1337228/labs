@@ -1,0 +1,11 @@
+﻿  lab9.3-9.5.cpp
+D:\C++projects\labs\lab6\lab9\lab9.3-9.5\lab9.3-9.5.cpp(7,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9.3-9.5\lab9.3-9.5.cpp(49,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> fill_vec<double,int>(Iterator,Iterator)"
+          with
+          [
+              Iterator=int
+          ]
+D:\C++projects\labs\lab6\lab9\lab9.3-9.5\lab9.3-9.5.cpp(25,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++projects\labs\lab6\lab9\lab9.3-9.5\lab9.3-9.5.cpp(50,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print_vec<double>(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &)"
+D:\C++projects\labs\lab6\lab9\lab9.3-9.5\lab9.3-9.5.cpp(26,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab9.3-9.5.vcxproj -> D:\C++projects\labs\lab6\lab9\x64\Debug\lab9.3-9.5.exe
